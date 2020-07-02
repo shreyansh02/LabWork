@@ -1,7 +1,3 @@
-//demonstrate getInstance() method
-
-/* Date getTime(): It is used to return a Date object representing this Calendar's time value. */
-
 package CalendarClass;
 import java.util.*; 
 
