@@ -1,4 +1,3 @@
-//demonstrate getMinimum() method
 
 package CalendarClass;
 import java.util.*; 
