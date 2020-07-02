@@ -1,4 +1,3 @@
-//demonstrate add() method
 
 package CalendarClass;
 import java.util.*; 
