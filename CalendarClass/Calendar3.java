@@ -1,4 +1,3 @@
-//demonstrate getMaximum() method.
 
 package CalendarClass;
 import java.util.*; 
