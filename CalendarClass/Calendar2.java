@@ -1,4 +1,3 @@
-//demonstrate get() method of Calendar class 
 
 package CalendarClass;
 import java.util.*; 
