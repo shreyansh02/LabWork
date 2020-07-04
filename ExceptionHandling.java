@@ -1,5 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
+import java.lang.math;
 
 class MyCalculator {
     long power(int n, int p) throws Exception {
