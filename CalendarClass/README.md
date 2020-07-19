@@ -1,3 +1,7 @@
+           Calendar class in Java is an abstract class that provides methods for converting date between a specific instant in time and a set of calendar fields                such as MONTH, YEAR, HOUR, etc. It inherits Object class and implements the Comparable, Serializable, Cloneable interfaces.
+
+
+
            METHOD	                                                                   DESCRIPTION
 
 abstract void add(int field, int amount)           :-              It is used to add or subtract the specified amount of time to the given calendar field, based on
