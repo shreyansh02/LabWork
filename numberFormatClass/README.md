@@ -1,6 +1,6 @@
 *NumberFormat is an abstract base class for all number formats. This class provides the interface for formatting and parsing numbers. NumberFormat also provides methods for determining which locales (US, India, Italy, etc) have number formats, and what their names are. NumberFormat helps you to format and parse numbers for any locale.*
 
-<b><e>Methods present in NumberFormat class:<e><b>
+<b><e>Methods present in NumberFormat class:</e></b>
 
 *public static NumberFormat getInstance();* : To get the NumberFormat object for default Locale.
 
