@@ -1,7 +1,7 @@
 // Java Program to illustrate NumberFormat class use
 
 package numberFormatClass;
-import java.util.*; 
+import java.util.*;
 import java.text.*;
 
 public class Format1 {
