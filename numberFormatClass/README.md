@@ -3,7 +3,9 @@
 <b>Some important points about NumberFormat class:</b>
 
 1) NumberFormat class is present in java.text package and it is an abstract class.
-2) NumberFormat class impllements Serializable, Cloneable.
+2) NumberFormat class implements Serializable, Cloneable.
+3) NumberFormat class is the direct child class of format class.
+4) NUmber Formats are generally not synchornized. It is recommended to create separate format instances for each theard. If multiple threads access a format concurrently, it must be synchornized externally.
 
 <b>Methods present in NumberFormat class:</b>
 
