@@ -1,7 +1,7 @@
 //The setParseIntegerOnly() method is a built-in method of the java.text.NumberFormat which sets whether or not numbers should be parsed as integers only.
 Syntax: public void setParseIntegerOnly(boolean val)
 
-import java.text.NumberFormat; 
+import java.text.NumberFormat;
 
 public class Format2{
   public static void main(String[] args)
