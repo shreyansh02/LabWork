@@ -1,4 +1,5 @@
-//NumberFormat is the abstract base class for all number format. This class provides the interface for formating and parsing numbers.
+//The setCurrency() method is a built-in method of the java.text.NumberFormat 
+
 public class Format3{
   
 }
