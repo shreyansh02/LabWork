@@ -1,7 +1,9 @@
 *NumberFormat is an abstract base class for all number formats. This class provides the interface for formatting and parsing numbers. NumberFormat also provides methods for determining which locales (US, India, Italy, etc) have number formats, and what their names are. NumberFormat helps you to format and parse numbers for any locale.*
 
 <b>Some important points about NumberFormat class:</b>
-<b>·</b>
+
+1) NumberFormat class is present in java.text package and it is an abstract class.
+2) NumberFormat class impllements Serializable, Cloneable.
 
 <b>Methods present in NumberFormat class:</b>
 
