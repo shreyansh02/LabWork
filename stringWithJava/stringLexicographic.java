@@ -13,9 +13,9 @@ public class stringLexicographic{
       
       if(largest.compareTo(str) < 0)
         largest = str;
-        
-      return smallest +"\n"+ largest
+       
     }
+    return smallest +"\n"+ largest
   }
   
   public static void main(String[] args){
