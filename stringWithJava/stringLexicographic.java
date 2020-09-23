@@ -5,7 +5,7 @@ public class stringLexicographic{
     String largest = "";
     smallest = largest = s.substring(0, k);
     
-    for(int i=0; i<=s.length()-k+1; i++){
+    for(int i=1; i<s.length()-k+1; i++){
       String str = s.substring(i, k+i);
       
       if(smallest.compareTo(str) > 0)
