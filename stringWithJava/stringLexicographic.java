@@ -25,6 +25,7 @@ public class stringLexicographic{
     sc.close();
     
     System.out.println(getSmallestAndLargest(s, k));
+    
   }
   
 }
